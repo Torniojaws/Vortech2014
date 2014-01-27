@@ -1,0 +1,41 @@
+<article>
+	<header>
+		<h2>In the Studio: Deep Beneath</h2>
+		<h3 class="subtitle">Making the next step in evolution</h3>
+		<p>Studio Diary by Juha Untinen, written 5 Apr 2008</p>
+	</header>
+	<section class="fulltext">
+		<p>The project Deep Beneath started way back in June 2007 when I composed two tracks (Shadow Shapes and Retribution) while waiting for Kraken to finish his vocals for Wasteland. Early next month another track was finished (Exile Within, originally titled The Six Phases of Unrest) and then I took a small break from songwriting to continue mixing Wasteland with the first batch of vocal tracks I received. Then a bit later in mid-August, I composed a whole bunch of songs within four days: The Undying Storm, Biodroid Legions and So They Rise (originally Voidforms). Then it was time to finish up Wasteland, so I didn't compose any songs for a while.</p>
+		<p>Then in November 2007 I finally composed a further three new songs: Subjugation (originally called Rust), The Awakening (originally Re.Activate) and Deep Beneath, which also pretty much locked me on the direction which the album would take. Then in December I also re-recorded and re-arranged an older demo track of mine that never found a home earlier, and it fit perfectly for this album. Bewildered (aka Bewildered Beyond Disknowledge) was then finished and now I had an albumfull of material.</p>
+		<p>In early January 2008, I started working on the lyrics for the songs and they were quickly finished in two weeks. Then it was time to start working on the final DI guitars for the album. All the guitar DI tracks were finished on 30 January and it was time to start recording the DI bass tracks. A big bunch of videos were filmed of the guitar tracking and there will be a compilation video.</p>
+		<p>All DI recordings were finished on 31 January and demo vocal recordings started.</p>
+		<p>In early February, I did the first reamping home tests and after getting an extra adapter I got it all working together perfectly. So now with the knowledge I can safely start reamping everything soon. It is a test nevertheless, so it might be that I won't use the reamped guitars at all. Hopefully they will rock, though, so I can use them. Should be a bit more different tone than the usual album these days with the 5150/Dual Rectifier combo on all of them. It does sound nice and is sure to work, but most albums tend to end up sounding the same, so with my Engl Powerball + Marshall JCM900 SL-X it should be a bit more different tone. I'm thinking about recording four tracks with both amps and see what sort of combination works best: 2+2, or perhaps all tracks with one amp. I'm also going to test the Studio Fredman method just for fun. In that method, you place one mic right at the center of the cone and another in a 45 degree angle, and adjusting the position to taste with the phasing.</p>
+		<p>I also did demo vocals for all the songs, both to test out how the vocals finally fit in within the songs and also for Kraken to practice the phrasing etc. Now that they're done, my work is finished for the time being, except for making the reamping project files for the songs. That's mostly just rearranging things for easier reamping.</p>
+	</section>
+	<aside>
+		<h3>Daily events</h3>
+		<ul>
+			<li>23 January - finished with final DI guitars for The Awakening and Biodroid Legions</li>
+			<li>25 January - finished the final DI guitars for The Undying Storm and Shadow Shapes</li>
+			<li>26 January - finished the final DI guitars for Retribution, Bewildered and Subjugation. Kraken visited and we discussed a bit about the vocals and lyrics, and I did a quick test on Retribution to see how the DI guitars sound. Very nice indeed.</li>
+			<li>30 January - the last remaining track was finished with guitars, and it's time to move onto bass</li>
+			<li>31 January - all bass DI tracks were finished in one day. Time to move on to demo vocals</li>
+			<li>2 February - fooled around with reamp testing etc.</li>
+			<li>3 February - finished doing the demo vocals for all the songs. All projects have also been arranged for reamping.</li>
+			<li>22 February - started and finished with reamping the guitars. I also did vocals for the first two songs.</li>
+			<li>25 February - fiddled around with impulses and EQ spectrums.</li>
+			<li>29 February - started with the vocal recordings at Siwa Studios.</li>
+			<li>1 March - the vocal sessions started properly, first three songs finished.</li>
+			<li>2 March - more vocals recorded, three and a half songs done.</li>
+			<li>3 March - all vocals are now on tape!</li>
+		</ul>
+		<h3>Gear used</h3>
+		<p>So far I've been using my Schecter 007 Blackjack for tracking the guitars going into the Little Labs Redeye in DI mode and into the RME Fireface 400, where the signal goes directly to Cubase SX 3. For monitoring I use Behringer Truth B2030A's. For guitar monitoring while tracking, I use the Wagner Sharp VST preamp modeller with Voxengo Boogex for a quick and dirty impulse. The drum tracks are programmed with Addictive Drums and for synths etc there's a wide variety of different VSTi synths. My favourites so far have been reFX's Vanguard and Nexus and Reason 4.0's NN-XT choir patches.</p>
+		<p>For bass recording I used the Ibanez BTB 555 into Tech 21 Sansamp Bass Driver DI with both a dirty signal and pure DI signal going into RME Fireface 400. From there on, the signal went directly to Cubase with a temporary EQ cutting out some of the midrange. The Sansamp settings were at: Level 11 o'clock, Blend 100 %, Treble 10 o'clock, Bass 12 o'clock, Drive 14:30 o'clock, Presence 14 o'clock.</p>
+		<p>In the initial reamping tests, I used the Fireface as an output going with a balanced signal into the Little Labs Redeye reamp box, and from there into the Engl Powerball with a short instrument cable.</p>
+		<p>For the demo vocals, I simply used my Shure SM57 into the Fireface 400. Since they're just for demoing the phrasing etc they aren't anything special or such. Just quick demonstrations. For the final vocals, there's two mics that will be used. Which one is picked depends on how they work. The first one is Mikko's AKG C2000B and the other (once it arrives) is my T.Bone SC450 cheapo mic, which should be interesting.</p>
+		<p>For the reamping, I used the Redeye into the Marshall and Engl, and I had a Digitech Bad Monkey in front of the Marshall. The cabinet was dual miced with two Shure SM57s, both on-axis with the first one pointing at the center of the dustcap and the other one pointing at the edge of the speaker cone. From there the mics went into the Fireface.</p>
+		<p>Eventually I decided that the reamped guitars simply won't cut it, so it was back to the original choice of impulses and EQ spectrums. I finally got a very nice tone going on with a Krank Revolution + Engl Savage spectrum pair, with a Peavey 5150 spectrum for the lead guitars. All that is achieved through a DI guitar track first going into a preamp modeler (I used the excellent and free Wagner Sharp v0.60), into SIR1 with a custom impulse of a Mesa Standard 4x12" cabinet. And lastly there's Voxengo Curve EQ to provide the EQ spectrum side of the combo. All that is highly CPU intensive, so I just have a separate project with nothing else but the DI guitars and I add the stuff into that and then export as .wav and add them to the main project. I also decided to use just two rhythm guitars since the mix is already busy as hell, so I need all the frequency space I can get.</p>
+		<p>The vocal recordings started with some fiddling and not much was caught on tape on the first day. The second day was more organized and we managed to record the vocal tracks for 3 songs, which is nice. The sessions continue throughout the weekend of 29 Feb - 2 March and if all goes well we should have 6 songs finished. Unfortunately that's all the time we have for the moment, so Kraken will continue recording at his home after this weekend. Or hang on, he decided to stay for one more day so we'll record more songs today on 3 March. There's currently 6,5 songs done, so if all goes well we can finish up the vocals today! And we did manage to record the last remaining songs today on 3 March. Next up is consolidating the guitar tracks and adding the vocal tracks to the songs.</p>
+	</aside>
+</article>

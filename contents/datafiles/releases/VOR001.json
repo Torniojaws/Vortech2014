@@ -1,0 +1,81 @@
+{
+	"artist" : "Vortech",
+	"album" : "Conclusion",
+	"releaseDate" : "2006-04-11",
+	"releaseCode" : "VOR001",
+	"duration" : "32:42",
+	"downloadLink" : "http://www.vortechmusic.com/conclusion",
+	"studioReportId" : "3",
+	"recordingStartDate" : "2005-10-01",
+	"recordingEndDate" : "2006-04-11",
+	"isOnCD" : true,
+	"tracklist" : [
+		{ 
+			"trackTitle" : "The Institution",
+			"trackDuration" : "02:41",
+			"trackLyricsFile" : "conclusion.php#1",
+			"trackTabFile" : "Vortech - The Institution.gp4"
+		},
+		{ 
+			"trackTitle" : "Terra Ultimatum",
+			"trackDuration" : "02:49",
+			"trackLyricsFile" : "conclusion.php#2",
+			"trackTabFile" : "Vortech - Terra Ultimatum.gp4"
+		},
+		{ 
+			"trackTitle" : "Crescent Moon",
+			"trackDuration" : "03:20",
+			"trackLyricsFile" : "conclusion.php#3",
+			"trackTabFile" : "Vortech - Crescent Moon.gp4"
+		},
+		{ 
+			"trackTitle" : "Mind Awakening",
+			"trackDuration" : "03:59",
+			"trackLyricsFile" : "conclusion.php#4",
+			"trackTabFile" : "Vortech - Mind Awakening.gp4"
+		},
+		{ 
+			"trackTitle" : "Sentinels of Pain",
+			"trackDuration" : "03:19",
+			"trackLyricsFile" : "conclusion.php#5",
+			"trackTabFile" : "Vortech - Sentinels of Pain.gp4"
+		},
+		{ 
+			"trackTitle" : "Apoapsis Mentis",
+			"trackDuration" : "03:55",
+			"trackLyricsFile" : "conclusion.php#6",
+			"trackTabFile" : ""
+		},
+		{ 
+			"trackTitle" : "Judgement of the Amenti",
+			"trackDuration" : "03:16",
+			"trackLyricsFile" : "conclusion.php#7",
+			"trackTabFile" : "Vortech - Judgement of the Amenti.gp4"
+		},
+		{ 
+			"trackTitle" : "Lunar Eclipse",
+			"trackDuration" : "03:07",
+			"trackLyricsFile" : "conclusion.php#8",
+			"trackTabFile" : "Vortech - Lunar Eclipse.gp4"
+		},
+		{ 
+			"trackTitle" : "Sycophant Gods",
+			"trackDuration" : "02:36",
+			"trackLyricsFile" : "conclusion.php#9",
+			"trackTabFile" : "Vortech - Sycophant Gods.gp4"
+		},
+		{ 
+			"trackTitle" : "End Game",
+			"trackDuration" : "03:39",
+			"trackLyricsFile" : "conclusion.php#10",
+			"trackTabFile" : ""
+		}
+	],
+	"artwork" : [
+		{ "front" : "artwork/conclusion-front" },
+		{ "back" : "artwork/conclusion-back" },
+		{ "inlay" : "artwork/conclusion-inlay" },
+		{ "thumb" : "-t" }
+	],
+	"creditsFile" : "credits/conclusion.php"
+}

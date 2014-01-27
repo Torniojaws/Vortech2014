@@ -1,0 +1,123 @@
+{
+	"artist" : "Vortech",
+	"album" : "Devoid of Life",
+	"releaseDate" : "2012-04-07",
+	"releaseCode" : "VOR006",
+	"duration" : "67:55",
+	"downloadLink" : "http://www.vortechmusic.com/devoidoflife",
+	"studioReportId" : "9",
+	"recordingStartDate" : "2010-05-26",
+	"recordingEndDate" : "2012-04-01",
+	"isOnCD" : true,
+	"tracklist" : [
+		{ 
+			"trackTitle" : "The Black Rite",
+			"trackDuration" : "04:06",
+			"trackLyricsFile" : "devoid.php#1",
+			"trackTabFile" : "Vortech - The Black Rite.gp5"
+		},
+		{ 
+			"trackTitle" : "Neurovirus",
+			"trackDuration" : "03:22",
+			"trackLyricsFile" : "devoid.php#2",
+			"trackTabFile" : "Vortech - Neurovirus.gp5"
+		},
+		{ 
+			"trackTitle" : "Shattered Cities",
+			"trackDuration" : "03:56",
+			"trackLyricsFile" : "devoid.php#3",
+			"trackTabFile" : "Vortech - Shattered Cities.gp5"
+		},
+		{ 
+			"trackTitle" : "Demon In the Circuitry",
+			"trackDuration" : "04:06",
+			"trackLyricsFile" : "devoid.php#4",
+			"trackTabFile" : "Vortech - Demon In the Circuitry.gp5"
+		},
+		{ 
+			"trackTitle" : "Frozen Machine",
+			"trackDuration" : "04:00",
+			"trackLyricsFile" : "devoid.php#5",
+			"trackTabFile" : "Vortech - Frozen Machine.gp5"
+		},
+		{ 
+			"trackTitle" : "Lost",
+			"trackDuration" : "03:57",
+			"trackLyricsFile" : "devoid.php#6",
+			"trackTabFile" : "Vortech - Lost.gp5"
+		},
+		{ 
+			"trackTitle" : "Unveiling the Future",
+			"trackDuration" : "03:36",
+			"trackLyricsFile" : "devoid.php#7",
+			"trackTabFile" : "Vortech - Unveiling the Future.gp5"
+		},
+		{ 
+			"trackTitle" : "The Apocalypse",
+			"trackDuration" : "05:09",
+			"trackLyricsFile" : "devoid.php#8",
+			"trackTabFile" : "Vortech - The Apocalypse.gp5"
+		},
+		{ 
+			"trackTitle" : "Grains of Reality",
+			"trackDuration" : "05:44",
+			"trackLyricsFile" : "devoid.php#9",
+			"trackTabFile" : ""
+		},
+		{ 
+			"trackTitle" : "The New Creations (Live)",
+			"trackDuration" : "04:33",
+			"trackLyricsFile" : "devoid.php#10",
+			"trackTabFile" : "Vortech - The New Creations.gp5"
+		},
+		{ 
+			"trackTitle" : "The Institution (Live)",
+			"trackDuration" : "02:56",
+			"trackLyricsFile" : "devoid.php#11",
+			"trackTabFile" : "Vortech - The Institution.gp4"
+		},
+		{ 
+			"trackTitle" : "Shattered Cities (Live)",
+			"trackDuration" : "04:02",
+			"trackLyricsFile" : "devoid.php#12",
+			"trackTabFile" : "Vortech - Shattered Cities.gp5"
+		},
+		{ 
+			"trackTitle" : "The Core (Live)",
+			"trackDuration" : "02:26",
+			"trackLyricsFile" : "devoid.php#13",
+			"trackTabFile" : "Vortech - The Core.gp4"
+		},
+		{ 
+			"trackTitle" : "Evolutionary Project (Live)",
+			"trackDuration" : "04:56",
+			"trackLyricsFile" : "devoid.php#14",
+			"trackTabFile" : "Vortech - Evolutionary Project.gp4"
+		},
+		{ 
+			"trackTitle" : "Neurovirus (Lost Control Remix)",
+			"trackDuration" : "03:33",
+			"trackLyricsFile" : "devoid.php#15",
+			"trackTabFile" : ""
+		},
+		{ 
+			"trackTitle" : "Demon In the Circuitry (Demo)",
+			"trackDuration" : "03:37",
+			"trackLyricsFile" : "devoid.php#16",
+			"trackTabFile" : "Vortech - Demon In the Circuitry.gp5"
+		},
+		{ 
+			"trackTitle" : "Shattered Cities (Demo)",
+			"trackDuration" : "03:56",
+			"trackLyricsFile" : "devoid.php#17",
+			"trackTabFile" : "Vortech - Shattered Cities.gp5"
+		}
+	],
+	"artwork" : [
+		{ "front" : "artwork/devoid-front" },
+		{ "back" : "artwork/devoid-back" },
+		{ "inlay" : "artwork/devoid-inlay" },
+		{ "thumb" : "-t" }
+	],
+	"creditsFile" : "credits/devoid.php"
+}

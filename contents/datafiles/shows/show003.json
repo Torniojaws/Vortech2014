@@ -1,0 +1,99 @@
+{
+	"artist" : "Vortech",
+	"date" : "2009-08-22",
+	"venue" : "Okkult Tupos Attakk Festival",
+	"city" : "Liminka",
+	"country" : "Finland",
+	"performers" : [
+		{
+			"instrument" : "Guitar and Electronics",
+			"name" : "Juha Untinen",
+			"notes" : ""
+		},
+		{
+			"instrument" : "Vocals",
+			"name" : "Matti Särkimäki",
+			"notes" : ""
+		}
+	],
+	"setlist" : [
+		{
+			"number" : 1,
+			"title" : "Their Contract",
+			"cover" : false
+		},
+		{
+			"number" : 2,
+			"title" : "Shedding the Flesh",
+			"cover" : false
+		},
+		{
+			"number" : 3,
+			"title" : "Lifeline",
+			"cover" : false
+		},
+		{
+			"number" : 4,
+			"title" : "Evolutionary Project",
+			"cover" : false
+		},
+		{
+			"number" : 5,
+			"title" : "Afterworld",
+			"cover" : false
+		},
+		{
+			"number" : 6,
+			"title" : "Impulse",
+			"cover" : false
+		},
+		{
+			"number" : 7,
+			"title" : "Biodroid Legions",
+			"cover" : false
+		},
+		{
+			"number" : 8,
+			"title" : "Destined to Fall",
+			"cover" : false
+		},
+		{
+			"number" : 9,
+			"title" : "The Awakening",
+			"cover" : false
+		}
+	],
+	"otherBands" : [
+		{
+			"name" : "Axebastard",
+			"country" : "Finland",
+			"website" : "http://www.myspace.com/axebastard"
+		},
+		{
+			"name" : "Forensic Hardcore",
+			"country" : "Finland",
+			"website" : "https://soundcloud.com/szxc"
+		},
+		{
+			"name" : "Hebosagil",
+			"country" : "Finland",
+			"website" : "http://www.hebosagil.com"
+		},
+		{
+			"name" : "Northern Discomfort",
+			"country" : "Finland",
+			"website" : ""
+		},
+		{
+			"name" : "Silent Threnody",
+			"country" : "Finland",
+			"website" : "http://www.silentthrenody.com"
+		},
+		{
+			"name" : "Unit 731",
+			"country" : "Finland",
+			"website" : "http://www.mikseri.net/artists/?id=106378"
+		}
+	],
+	"comments" : "Our first festival show"
+}

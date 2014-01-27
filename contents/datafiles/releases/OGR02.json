@@ -1,0 +1,57 @@
+{
+	"artist" : "Sound Ogre",
+	"album" : "Asphyxiation (EP)",
+	"releaseDate" : "2005-03-14",
+	"releaseCode" : "OGR02",
+	"duration" : "19:33",
+	"downloadLink" : "http://www.vortechmusic.com/asphyxiation",
+	"studioReportId" : "2",
+	"recordingStartDate" : "2005-01-05",
+	"recordingEndDate" : "2005-03-12",
+	"isOnCD" : false,
+	"tracklist" : [
+		{ 
+			"trackTitle" : "Humid Skies of Darkness",
+			"trackDuration" : "03:17",
+			"trackLyricsFile" : "asphyx.php#1",
+			"trackTabFile" : "Sound Ogre - Humid Skies of Darkness.gp5"
+		},
+		{ 
+			"trackTitle" : "Asphyxiation",
+			"trackDuration" : "02:43",
+			"trackLyricsFile" : "asphyx.php#2",
+			"trackTabFile" : "Sound Ogre - Asphyxiation.gp5"
+		},
+		{ 
+			"trackTitle" : "Gnawed by the Otherworldly Vex",
+			"trackDuration" : "03:04",
+			"trackLyricsFile" : "asphyx.php#3",
+			"trackTabFile" : "Sound Ogre - Gnawed by the Otherworldly Vex.gp5"
+		},
+		{ 
+			"trackTitle" : "The Variable of Irresolution",
+			"trackDuration" : "02:51",
+			"trackLyricsFile" : "asphyx.php#4",
+			"trackTabFile" : "Sound Ogre - The Variable of Irresolution.gp5"
+		},
+		{ 
+			"trackTitle" : "Visions Macabre",
+			"trackDuration" : "02:53",
+			"trackLyricsFile" : "asphyx.php#5",
+			"trackTabFile" : "Sound Ogre - Visions Macabre.gp5"
+		},
+		{ 
+			"trackTitle" : "Spiritual Entity",
+			"trackDuration" : "04:45",
+			"trackLyricsFile" : "asphyx.php#6",
+			"trackTabFile" : "Sound Ogre - Spiritual Entity.gp5"
+		}
+	],
+	"artwork" : [
+		{ "front" : "artwork/asphyx-front" },
+		{ "back" : "artwork/asphyx-back" },
+		{ "inlay" : "artwork/asphyx-inlay" },
+		{ "thumb" : "-t" }
+	],
+	"creditsFile" : "credits/asphyx.php"
+}

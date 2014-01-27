@@ -1,0 +1,84 @@
+{
+	"artist" : "Vortech",
+	"date" : "2010-07-23",
+	"venue" : "Grande",
+	"city" : "Rovaniemi",
+	"country" : "Finland",
+	"performers" : [
+		{
+			"instrument" : "Guitar and Electronics",
+			"name" : "Juha Untinen",
+			"notes" : ""
+		},
+		{
+			"instrument" : "Vocals",
+			"name" : "Matti Särkimäki",
+			"notes" : ""
+		}
+	],
+	"setlist" : [
+		{
+			"number" : 1,
+			"title" : "The Black Rite",
+			"cover" : false
+		},
+		{
+			"number" : 2,
+			"title" : "Neurovirus",
+			"cover" : false
+		},
+		{
+			"number" : 3,
+			"title" : "The Institution",
+			"cover" : false
+		},
+		{
+			"number" : 4,
+			"title" : "Radiant Storm",
+			"cover" : false
+		},
+		{
+			"number" : 5,
+			"title" : "The Core",
+			"cover" : false
+		},
+		{
+			"number" : 6,
+			"title" : "The New Creations",
+			"cover" : false
+		},
+		{
+			"number" : 7,
+			"title" : "Shattered Cities",
+			"cover" : false
+		},
+		{
+			"number" : 8,
+			"title" : "The Awakening",
+			"cover" : false
+		},
+		{
+			"number" : 9,
+			"title" : "Biodroid Legions",
+			"cover" : false
+		},
+		{
+			"number" : 10,
+			"title" : "Destined to Fall",
+			"cover" : false
+		}
+	],
+	"otherBands" : [
+		{
+			"name" : "The Howl",
+			"country" : "Finland",
+			"website" : "http://www.the-howl.net"
+		},
+		{
+			"name" : "Sinfect",
+			"country" : "Finland",
+			"website" : ""
+		}
+	],
+	"comments" : "Last show with Matti on vocals"
+}

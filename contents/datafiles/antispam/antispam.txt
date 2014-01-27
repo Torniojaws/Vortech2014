@@ -1,0 +1,3 @@
+one, two, _____, four|three|
+1 + 3 = _|4|
+The ___ shines in the morning|sun|

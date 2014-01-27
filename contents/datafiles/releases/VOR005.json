@@ -1,0 +1,45 @@
+{
+	"artist" : "Vortech",
+	"album" : "Infocalypse (EP)",
+	"releaseDate" : "2010-12-19",
+	"releaseCode" : "VOR005",
+	"duration" : "14:50",
+	"downloadLink" : "http://www.vortechmusic.com/infocalypse",
+	"studioReportId" : "8",
+	"recordingStartDate" : "2010-05-26",
+	"recordingEndDate" : "2010-12-15",
+	"isOnCD" : false,
+	"tracklist" : [
+		{ 
+			"trackTitle" : "Chaos Dimension",
+			"trackDuration" : "03:24",
+			"trackLyricsFile" : "info.php#1",
+			"trackTabFile" : "Vortech - Chaos Dimension.gp5"
+		},
+		{ 
+			"trackTitle" : "Charcoal Earth",
+			"trackDuration" : "03:11",
+			"trackLyricsFile" : "info.php#2",
+			"trackTabFile" : "Vortech - Charcoal Earth.gp5"
+		},
+		{ 
+			"trackTitle" : "Pyre of Souls",
+			"trackDuration" : "04:24",
+			"trackLyricsFile" : "info.php#3",
+			"trackTabFile" : "Vortech - Pyre of Souls.gp5"
+		},
+		{ 
+			"trackTitle" : "Wire Synapse",
+			"trackDuration" : "03:52",
+			"trackLyricsFile" : "info.php#4",
+			"trackTabFile" : "Vortech - Wire Synapse.gp5"
+		}
+	],
+	"artwork" : [
+		{ "front" : "artwork/info-front" },
+		{ "back" : "artwork/info-back" },
+		{ "inlay" : "artwork/info-inlay" },
+		{ "thumb" : "-t" }
+	],
+	"creditsFile" : "credits/info.php"
+}

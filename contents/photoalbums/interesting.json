@@ -1,0 +1,97 @@
+{
+	"title" : "Of Interest",
+	"cover" : "hdr_rack-t.jpg",
+	"folder" : "interesting",
+	"photos" : [
+		{
+			"url" : "144_4487.JPG",
+			"thumb" : "144_4487-t.jpg",
+			"caption" : "Creating the future logo, back in late 2005"
+		},
+		{
+			"url" : "IMG_3994.JPG",
+			"thumb" : "IMG_3994-t.jpg",
+			"caption" : "CDs ready to ship on a moment's notice!"
+		},
+		{
+			"url" : "IMG_5149.JPG",
+			"thumb" : "IMG_5149-t.jpg",
+			"caption" : "More shirts!"
+		},
+		{
+			"url" : "IMG_3995-2.JPG",
+			"thumb" : "IMG_3995-2-t.jpg",
+			"caption" : "And even more shirts!"
+		},
+		{
+			"url" : "IMG_5150.JPG",
+			"thumb" : "IMG_5150-t.jpg",
+			"caption" : "The shirts of 2012"
+		},
+		{
+			"url" : "IMG_5180.JPG",
+			"thumb" : "IMG_5180-t.jpg",
+			"caption" : "Boxes of CDs, Devoid of Life"
+		},
+		{
+			"url" : "IMG_5181.JPG",
+			"thumb" : "IMG_5181-t.jpg",
+			"caption" : "How about some?"
+		},
+		{
+			"url" : "IMG_5366.JPG",
+			"thumb" : "IMG_5366-t.jpg",
+			"caption" : "When the first 3 CDs arrived... autumn 2008"
+		},
+		{
+			"url" : "IMG_5385.JPG",
+			"thumb" : "IMG_5385-t.jpg",
+			"caption" : "The first promo CDs to be reviewed"
+		},
+		{
+			"url" : "IMG_6476.JPG",
+			"thumb" : "IMG_6476-t.jpg",
+			"caption" : "All the things we need to play a live show!"
+		},
+		{
+			"url" : "IMG_6964.JPG",
+			"thumb" : "IMG_6964-t.jpg",
+			"caption" : "The keyboard that brings the moods"
+		},
+		{
+			"url" : "IMG_6965.JPG",
+			"thumb" : "IMG_6965-t.jpg",
+			"caption" : "Piano roll ahead"
+		},
+		{
+			"url" : "IMG_6966.JPG",
+			"thumb" : "IMG_6966-t.jpg",
+			"caption" : "The current audio interface, appearing on The Occlusion and Impenitence"
+		},
+		{
+			"url" : "IMG_6967.JPG",
+			"thumb" : "IMG_6967-t.jpg",
+			"caption" : "Headphones for the low frequencies"
+		},
+		{
+			"url" : "IMG_6968.JPG",
+			"thumb" : "IMG_6968-t.jpg",
+			"caption" : "The Guitar, as featured on ALL Vortech albums"
+		},
+		{
+			"url" : "IMG_6970.JPG",
+			"thumb" : "IMG_6970-t.jpg",
+			"caption" : "Keys are needed in other places too"
+		},
+		{
+			"url" : "IMG_6973.JPG",
+			"thumb" : "IMG_6973-t.jpg",
+			"caption" : "It all comes together in digital!"
+		},
+		{
+			"url" : "hdr-rack.JPG",
+			"thumb" : "hdr-rack-t.jpg",
+			"caption" : "Here's how it usually looks..."
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"artist" : "Vortech",
+	"album" : "Impenitence (EP)",
+	"releaseDate" : "2013-09-21",
+	"releaseCode" : "VOR007",
+	"duration" : "14:11",
+	"downloadLink" : "http://www.vortechmusic.com/impenitence",
+	"studioReportId" : "11",
+	"recordingStartDate" : "2013-06-08",
+	"recordingEndDate" : "2013-07-22",
+	"isOnCD" : false,
+	"tracklist" : [
+		{ 
+			"trackTitle" : "Corroded",
+			"trackDuration" : "03:14",
+			"trackLyricsFile" : "impenitence.php#1",
+			"trackTabFile" : "Vortech - Corroded.gp5"
+		},
+		{ 
+			"trackTitle" : "The Observers",
+			"trackDuration" : "04:15",
+			"trackLyricsFile" : "impenitence.php#2",
+			"trackTabFile" : "Vortech - The Observers.gp5"
+		},
+		{ 
+			"trackTitle" : "Devour the Being",
+			"trackDuration" : "03:12",
+			"trackLyricsFile" : "impenitence.php#3",
+			"trackTabFile" : "Vortech - Devour the Being.gp5"
+		},
+		{ 
+			"trackTitle" : "Uncreation",
+			"trackDuration" : "03:26",
+			"trackLyricsFile" : "impenitence.php#4",
+			"trackTabFile" : "Vortech - Uncreation.gp5"
+		}
+	],
+	"artwork" : [
+		{ "front" : "artwork/impenitence-front" },
+		{ "back" : "artwork/impenitence-back" },
+		{ "inlay" : "artwork/impenitence-inlay" },
+		{ "thumb" : "-t" }
+	],
+	"creditsFile" : "credits/impenitence.php"
+}

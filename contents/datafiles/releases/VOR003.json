@@ -1,0 +1,81 @@
+{
+	"artist" : "Vortech",
+	"album" : "Deep Beneath",
+	"releaseDate" : "2008-03-06",
+	"releaseCode" : "VOR003",
+	"duration" : "42:35",
+	"downloadLink" : "http://www.vortechmusic.com/deepbeneath",
+	"studioReportId" : "6",
+	"recordingStartDate" : "2008-01-06",
+	"recordingEndDate" : "2008-03-05",
+	"isOnCD" : true,
+	"tracklist" : [
+		{ 
+			"trackTitle" : "The Awakening",
+			"trackDuration" : "03:49",
+			"trackLyricsFile" : "deep.php#1",
+			"trackTabFile" : "Vortech - The Awakening.gp4"
+		},
+		{ 
+			"trackTitle" : "Biodroid Legions",
+			"trackDuration" : "04:32",
+			"trackLyricsFile" : "deep.php#2",
+			"trackTabFile" : "Vortech - Biodroid Legions.gp4"
+		},
+		{ 
+			"trackTitle" : "The Undying Storm",
+			"trackDuration" : "04:24",
+			"trackLyricsFile" : "deep.php#3",
+			"trackTabFile" : "Vortech - The Undying Storm.gp4"
+		},
+		{ 
+			"trackTitle" : "Shadow Shapes",
+			"trackDuration" : "04:02",
+			"trackLyricsFile" : "deep.php#4",
+			"trackTabFile" : "Vortech - Shadow Shapes.gp4"
+		},
+		{ 
+			"trackTitle" : "Retribution",
+			"trackDuration" : "03:49",
+			"trackLyricsFile" : "deep.php#5",
+			"trackTabFile" : "Vortech - Retribution.gp4"
+		},
+		{ 
+			"trackTitle" : "Bewildered",
+			"trackDuration" : "03:23",
+			"trackLyricsFile" : "deep.php#6",
+			"trackTabFile" : "Vortech - Bewildered.gp4"
+		},
+		{ 
+			"trackTitle" : "Deep Beneath",
+			"trackDuration" : "06:23",
+			"trackLyricsFile" : "deep.php#7",
+			"trackTabFile" : ""
+		},
+		{ 
+			"trackTitle" : "Subjugation",
+			"trackDuration" : "03:13",
+			"trackLyricsFile" : "deep.php#8",
+			"trackTabFile" : "Vortech - Subjugation.gp4"
+		},
+		{ 
+			"trackTitle" : "Exile Within",
+			"trackDuration" : "04:28",
+			"trackLyricsFile" : "deep.php#9",
+			"trackTabFile" : "Vortech - Exile Within.gp4"
+		},
+		{ 
+			"trackTitle" : "So They Rise",
+			"trackDuration" : "04:32",
+			"trackLyricsFile" : "deep.php#10",
+			"trackTabFile" : "Vortech - So They Rise.gp4"
+		}
+	],
+	"artwork" : [
+		{ "front" : "artwork/deep-front" },
+		{ "back" : "artwork/deep-back" },
+		{ "inlay" : "artwork/deep-inlay" },
+		{ "thumb" : "-t" }
+	],
+	"creditsFile" : "credits/deep.php"
+}

@@ -1,0 +1,47 @@
+{
+	"title" : "Rehearsals continue in Oulu, 2012",
+	"cover" : ".jpg",
+	"folder" : "rehearsals_2012oulu",
+	"photos" : [
+		{
+			"url" : "IMG_6128.JPG",
+			"thumb" : "IMG_6128-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_6135.JPG",
+			"thumb" : "IMG_6135-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_6136.JPG",
+			"thumb" : "IMG_6136-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_6145.JPG",
+			"thumb" : "IMG_6145-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_6158.JPG",
+			"thumb" : "IMG_6158-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_6192.JPG",
+			"thumb" : "IMG_6192-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_6196.JPG",
+			"thumb" : "IMG_6196-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_6437.JPG",
+			"thumb" : "IMG_6437-t.jpg",
+			"caption" : ""
+		}
+	]
+}

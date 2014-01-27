@@ -1,0 +1,37 @@
+{
+	"title" : "Rehearsals in Kemi, 2012",
+	"cover" : ".jpg",
+	"folder" : "rehearsals_2012",
+	"photos" : [
+		{
+			"url" : "IMG_3712.JPG",
+			"thumb" : "IMG_3712-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_3785.JPG",
+			"thumb" : "IMG_3785-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_3786.JPG",
+			"thumb" : "IMG_3786-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_3788.JPG",
+			"thumb" : "IMG_3788-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_3793.JPG",
+			"thumb" : "IMG_3793-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_3801.JPG",
+			"thumb" : "IMG_3801-t.jpg",
+			"caption" : ""
+		}
+	]
+}

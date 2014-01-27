@@ -1,0 +1,49 @@
+{
+	"artist" : "Sound Ogre",
+	"date" : "2001-11-24",
+	"venue" : "Jesperi",
+	"city" : "Tornio",
+	"country" : "Finland",
+	"performers" : [
+		{
+			"instrument" : "Guitar",
+			"name" : "Juha Untinen",
+			"notes" : ""
+		},
+		{
+			"instrument" : "Drums",
+			"name" : "Tero Konola",
+			"notes" : ""
+		},
+		{
+			"instrument" : "Bass",
+			"name" : "Samuli Tarvainen",
+			"notes" : "Session artist"
+		}
+	],
+	"setlist" : [
+		{
+			"number" : 1,
+			"title" : "Loppusyksy",
+			"cover" : false
+		},
+		{
+			"number" : 2,
+			"title" : "Endless Stairs",
+			"cover" : false
+		},
+		{
+			"number" : 3,
+			"title" : "The Sentence Is Death",
+			"cover" : false
+		}
+	],
+	"otherBands" : [
+		{
+			"name" : "",
+			"country" : "",
+			"website" : ""
+		}
+	],
+	"comments" : "Youth festival (Kevari 2001) with lots of local bands"
+}

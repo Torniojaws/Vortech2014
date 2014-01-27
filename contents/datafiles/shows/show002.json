@@ -1,0 +1,79 @@
+{
+	"artist" : "Vortech",
+	"date" : "2009-06-12",
+	"venue" : "Lupi",
+	"city" : "Oulu",
+	"country" : "Finland",
+	"performers" : [
+		{
+			"instrument" : "Guitar and Electronics",
+			"name" : "Juha Untinen",
+			"notes" : ""
+		},
+		{
+			"instrument" : "Vocals",
+			"name" : "Matti Särkimäki",
+			"notes" : ""
+		}
+	],
+	"setlist" : [
+		{
+			"number" : 1,
+			"title" : "Impulse",
+			"cover" : false
+		},
+		{
+			"number" : 2,
+			"title" : "The New Creations",
+			"cover" : false
+		},
+		{
+			"number" : 3,
+			"title" : "The Wolves",
+			"cover" : false
+		},
+		{
+			"number" : 4,
+			"title" : "Biodroid Legions",
+			"cover" : false
+		},
+		{
+			"number" : 5,
+			"title" : "Xenomorphosis",
+			"cover" : false
+		},
+		{
+			"number" : 6,
+			"title" : "Destined to Fall",
+			"cover" : false
+		},
+		{
+			"number" : 7,
+			"title" : "Evolutionary Project",
+			"cover" : false
+		},
+		{
+			"number" : 8,
+			"title" : "Their Contract",
+			"cover" : false
+		},
+		{
+			"number" : 9,
+			"title" : "The Awakening",
+			"cover" : false
+		}
+	],
+	"otherBands" : [
+		{
+			"name" : "Kätyri",
+			"country" : "Finland",
+			"website" : "http://www.katyri.com"
+		},
+		{
+			"name" : "Catamenia",
+			"country" : "Finland",
+			"website" : "http://www.catamenia.net"
+		}
+	],
+	"comments" : ""
+}

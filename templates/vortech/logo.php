@@ -1,0 +1,1 @@
+<a href="?page=index"><img src="templates/vortech/logo.png" alt="Index page link" /></a>

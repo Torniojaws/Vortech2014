@@ -1,0 +1,87 @@
+{
+	"artist" : "Vortech",
+	"album" : "Posthumanism",
+	"releaseDate" : "2009-04-16",
+	"releaseCode" : "VOR004",
+	"duration" : "47:06",
+	"downloadLink" : "http://www.vortechmusic.com/posthumanism",
+	"studioReportId" : "7",
+	"recordingStartDate" : "2009-01-06",
+	"recordingEndDate" : "2009-04-16",
+	"isOnCD" : false,
+	"tracklist" : [
+		{ 
+			"trackTitle" : "Posthumanism",
+			"trackDuration" : "03:25",
+			"trackLyricsFile" : "post.php#1",
+			"trackTabFile" : "Vortech - Posthumanism.gp5"
+		},
+		{ 
+			"trackTitle" : "Xenomorphosis",
+			"trackDuration" : "04:13",
+			"trackLyricsFile" : "post.php#2",
+			"trackTabFile" : "Vortech - Xenomorphosis.gp5"
+		},
+		{ 
+			"trackTitle" : "Destined to Fall",
+			"trackDuration" : "03:55",
+			"trackLyricsFile" : "post.php#3",
+			"trackTabFile" : "Vortech - Destined to Fall.gp5"
+		},
+		{ 
+			"trackTitle" : "Humanity: Static",
+			"trackDuration" : "05:42",
+			"trackLyricsFile" : "post.php#4",
+			"trackTabFile" : "Vortech - Humanity Static.gp5"
+		},
+		{ 
+			"trackTitle" : "The Wolves",
+			"trackDuration" : "04:24",
+			"trackLyricsFile" : "post.php#5",
+			"trackTabFile" : "Vortech - The Wolves.gp5"
+		},
+		{ 
+			"trackTitle" : "The New Creations",
+			"trackDuration" : "04:28",
+			"trackLyricsFile" : "post.php#6",
+			"trackTabFile" : "Vortech - The New Creations.gp5"
+		},
+		{ 
+			"trackTitle" : "Lifeline",
+			"trackDuration" : "04:52",
+			"trackLyricsFile" : "post.php#7",
+			"trackTabFile" : "Vortech - Lifeline.gp5"
+		},
+		{ 
+			"trackTitle" : "Afterworld",
+			"trackDuration" : "03:46",
+			"trackLyricsFile" : "post.php#8",
+			"trackTabFile" : "Vortech - Afterworld.gp5"
+		},
+		{ 
+			"trackTitle" : "False Salvation",
+			"trackDuration" : "05:21",
+			"trackLyricsFile" : "post.php#9",
+			"trackTabFile" : "Vortech - False Salvation.gp5"
+		},
+		{ 
+			"trackTitle" : "Transcendence",
+			"trackDuration" : "04:00",
+			"trackLyricsFile" : "post.php#10",
+			"trackTabFile" : "Vortech - Transcendence.gp5"
+		},
+		{ 
+			"trackTitle" : "Shedding the Flesh",
+			"trackDuration" : "03:00",
+			"trackLyricsFile" : "post.php#11",
+			"trackTabFile" : "Vortech - Shedding the Flesh.gp5"
+		}
+	],
+	"artwork" : [
+		{ "front" : "artwork/post-front" },
+		{ "back" : "artwork/post-back" },
+		{ "inlay" : "artwork/post-inlay" },
+		{ "thumb" : "-t" }
+	],
+	"creditsFile" : "credits/post.php"
+}

@@ -1,0 +1,81 @@
+{
+	"artist" : "Vortech",
+	"album" : "Wasteland",
+	"releaseDate" : "2007-09-23",
+	"releaseCode" : "VOR002",
+	"duration" : "37:34",
+	"downloadLink" : "http://www.vortechmusic.com/wasteland",
+	"studioReportId" : "5",
+	"recordingStartDate" : "2006-12-01",
+	"recordingEndDate" : "2007-09-20",
+	"isOnCD" : true,
+	"tracklist" : [
+		{ 
+			"trackTitle" : "The Core",
+			"trackDuration" : "02:26",
+			"trackLyricsFile" : "wasteland.php#1",
+			"trackTabFile" : "Vortech - The Core.gp4"
+		},
+		{ 
+			"trackTitle" : "Evolutionary Project",
+			"trackDuration" : "04:59",
+			"trackLyricsFile" : "wasteland.php#2",
+			"trackTabFile" : "Vortech - Evolutionary Project.gp4"
+		},
+		{ 
+			"trackTitle" : "Their Contract",
+			"trackDuration" : "03:44",
+			"trackLyricsFile" : "wasteland.php#3",
+			"trackTabFile" : "Vortech - Their Contract.gp4"
+		},
+		{ 
+			"trackTitle" : "Instigate Hostile Reaction",
+			"trackDuration" : "04:52",
+			"trackLyricsFile" : "wasteland.php#4",
+			"trackTabFile" : "Vortech - Instigate Hostile Reaction.gp4"
+		},
+		{ 
+			"trackTitle" : "Impulse",
+			"trackDuration" : "03:57",
+			"trackLyricsFile" : "wasteland.php#5",
+			"trackTabFile" : "Vortech - Impulse.gp4"
+		},
+		{ 
+			"trackTitle" : "Perdition",
+			"trackDuration" : "02:51",
+			"trackLyricsFile" : "wasteland.php#6",
+			"trackTabFile" : "Vortech - Perdition.gp4"
+		},
+		{ 
+			"trackTitle" : "The Silence",
+			"trackDuration" : "03:43",
+			"trackLyricsFile" : "wasteland.php#7",
+			"trackTabFile" : ""
+		},
+		{ 
+			"trackTitle" : "Winds of Contamination",
+			"trackDuration" : "03:07",
+			"trackLyricsFile" : "wasteland.php#8",
+			"trackTabFile" : "Vortech - Winds of Contamination.gp5"
+		},
+		{ 
+			"trackTitle" : "Radiant Storm",
+			"trackDuration" : "03:19",
+			"trackLyricsFile" : "wasteland.php#9",
+			"trackTabFile" : "Vortech - Radiant Storm.gp4"
+		},
+		{ 
+			"trackTitle" : "Wasteland Roamers",
+			"trackDuration" : "04:36",
+			"trackLyricsFile" : "wasteland.php#10",
+			"trackTabFile" : ""
+		}
+	],
+	"artwork" : [
+		{ "front" : "artwork/wasteland-front" },
+		{ "back" : "artwork/wasteland-back" },
+		{ "inlay" : "artwork/wasteland-inlay" },
+		{ "thumb" : "-t" }
+	],
+	"creditsFile" : "credits/wasteland.php"
+}

@@ -1,0 +1,42 @@
+{
+	"title" : "Recording Devoid of Life and Infocalypse, 2010",
+	"cover" : ".jpg",
+	"folder" : "studio_2010",
+	"photos" : [
+		{
+			"url" : "IMG_2567.JPG",
+			"thumb" : "IMG_2567-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "IMG_2568.JPG",
+			"thumb" : "IMG_2568-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "bass.JPG",
+			"thumb" : "bass-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "bass2.JPG",
+			"thumb" : "bass2-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "guitar1.JPG",
+			"thumb" : "guitar1-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "guitar2.JPG",
+			"thumb" : "guitar2-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "guitar3.JPG",
+			"thumb" : "guitar3-t.jpg",
+			"caption" : ""
+		}
+	]
+}

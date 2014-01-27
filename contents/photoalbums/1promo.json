@@ -1,0 +1,87 @@
+{
+	"title" : "Promotional",
+	"cover" : "promo2013-t.jpg",
+	"folder" : "promo",
+	"photos" : [
+		{
+			"url" : "promo2013.JPG",
+			"thumb" : "promo2013-t.jpg",
+			"caption" : "Promo II, 2012"
+		},
+		{
+			"url" : "2012_1600x1200.JPG",
+			"thumb" : "2012_1600x1200-t.jpg",
+			"caption" : "Promo 2012"
+		},
+		{
+			"url" : "huhti2010_full.JPG",
+			"thumb" : "huhti2010_full-t.jpg",
+			"caption" : "Promo 2010"
+		},
+		{
+			"url" : "Vortech-Promo-2009v2013.JPG",
+			"thumb" : "Vortech-Promo-2009v2013-t.jpg",
+			"caption" : "Promo III, 2009"
+		},
+		{
+			"url" : "vortech_promo2-v2-2009.JPG",
+			"thumb" : "vortech_promo2-v2-2009-t.jpg",
+			"caption" : "Promo II, 2009"
+		},
+		{
+			"url" : "137_3701.JPG",
+			"thumb" : "137_3701-t.jpg",
+			"caption" : "Promo 2006"
+		},
+		{
+			"url" : "137_3763.JPG",
+			"thumb" : "137_3763-t.jpg",
+			"caption" : "Promo 2006"
+		},
+		{
+			"url" : "140_4078.JPG",
+			"thumb" : "140_4078-t.jpg",
+			"caption" : "Promo 2006"
+		},
+		{
+			"url" : "143_4315.JPG",
+			"thumb" : "143_4315-t.jpg",
+			"caption" : "Promo 2007"
+		},
+		{
+			"url" : "151_5187.JPG",
+			"thumb" : "151_5187-t.jpg",
+			"caption" : "Promo 2008"
+		},
+		{
+			"url" : "IMG_5837.JPG",
+			"thumb" : "IMG_5837-t.jpg",
+			"caption" : "Promo 2009"
+		},
+		{
+			"url" : "devid-765.JPG",
+			"thumb" : "devid-765-t.jpg",
+			"caption" : "Promo 2007"
+		},
+		{
+			"url" : "promo1.JPG",
+			"thumb" : "promo1-t.jpg",
+			"caption" : "Promo 2008"
+		},
+		{
+			"url" : "promo2006.JPG",
+			"thumb" : "promo2006-t.jpg",
+			"caption" : "Promo 2006"
+		},
+		{
+			"url" : "studio2006.JPG",
+			"thumb" : "studio2006-t.jpg",
+			"caption" : "Promo 2006"
+		},
+		{
+			"url" : "vortech-2007-promo-syys2.JPG",
+			"thumb" : "vortech-2007-promo-syys2-t.jpg",
+			"caption" : "Promo 2007"
+		}
+	]
+}

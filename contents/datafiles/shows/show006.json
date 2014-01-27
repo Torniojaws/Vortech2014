@@ -1,0 +1,69 @@
+{
+	"artist" : "Vortech",
+	"date" : "2010-03-31",
+	"venue" : "Hevimesta",
+	"city" : "Oulu",
+	"country" : "Finland",
+	"performers" : [
+		{
+			"instrument" : "Guitar and Electronics",
+			"name" : "Juha Untinen",
+			"notes" : ""
+		},
+		{
+			"instrument" : "Vocals",
+			"name" : "Matti Särkimäki",
+			"notes" : ""
+		}
+	],
+	"setlist" : [
+		{
+			"number" : 1,
+			"title" : "Shedding the Flesh",
+			"cover" : false
+		},
+		{
+			"number" : 2,
+			"title" : "Their Contract",
+			"cover" : false
+		},
+		{
+			"number" : 3,
+			"title" : "The Wolves",
+			"cover" : false
+		},
+		{
+			"number" : 4,
+			"title" : "Neurovirus",
+			"cover" : false
+		},
+		{
+			"number" : 5,
+			"title" : "Bewildered",
+			"cover" : false
+		},
+		{
+			"number" : 6,
+			"title" : "The New Creations",
+			"cover" : false
+		},
+		{
+			"number" : 7,
+			"title" : "Impulse",
+			"cover" : false
+		},
+		{
+			"number" : 8,
+			"title" : "Biodroid Legions",
+			"cover" : false
+		}
+	],
+	"otherBands" : [
+		{
+			"name" : "Synesthesia",
+			"country" : "Finland",
+			"website" : "http://www.synesthesiaband.com"
+		}
+	],
+	"comments" : ""
+}

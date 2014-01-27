@@ -1,0 +1,51 @@
+{
+	"artist" : "Sound Ogre",
+	"album" : "Extinct (EP)",
+	"releaseDate" : "2004-10-10",
+	"releaseCode" : "OGR01",
+	"duration" : "19:29",
+	"downloadLink" : "http://www.vortechmusic.com/extinct",
+	"studioReportId" : "1",
+	"recordingStartDate" : "2004-09-01",
+	"recordingEndDate" : "2004-10-10",
+	"isOnCD" : false,
+	"tracklist" : [
+		{ 
+			"trackTitle" : "Life",
+			"trackDuration" : "04:28",
+			"trackLyricsFile" : "extinct.php#1",
+			"trackTabFile" : "Sound Ogre - Life.gp5"
+		},
+		{ 
+			"trackTitle" : "Endless Stairs",
+			"trackDuration" : "04:35",
+			"trackLyricsFile" : "extinct.php#2",
+			"trackTabFile" : "Sound Ogre - Endless Stairs.txt"
+		},
+		{ 
+			"trackTitle" : "Evil Never Dies",
+			"trackDuration" : "03:35",
+			"trackLyricsFile" : "extinct.php#3",
+			"trackTabFile" : "Sound Ogre - Evil Never Dies.txt"
+		},
+		{ 
+			"trackTitle" : "The Sentence Is Death",
+			"trackDuration" : "05:19",
+			"trackLyricsFile" : "extinct.php#4",
+			"trackTabFile" : "Sound Ogre - The Sentence Is Death.txt"
+		},
+		{ 
+			"trackTitle" : "Misery",
+			"trackDuration" : "01:32",
+			"trackLyricsFile" : "extinct.php#5",
+			"trackTabFile" : "Sound Ogre - Misery.txt"
+		}
+	],
+	"artwork" : [
+		{ "front" : "artwork/extinct-front" },
+		{ "back" : "artwork/extinct-back" },
+		{ "inlay" : "artwork/extinct-inlay" },
+		{ "thumb" : "-t" }
+	],
+	"creditsFile" : "credits/extinct.php"
+}

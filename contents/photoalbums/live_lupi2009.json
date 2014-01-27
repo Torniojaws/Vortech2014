@@ -1,0 +1,42 @@
+{
+	"title" : "Live in Oulu, 2009",
+	"cover" : ".jpg",
+	"folder" : "live_lupi2009",
+	"photos" : [
+		{
+			"url" : "DSC00002.JPG",
+			"thumb" : "DSC00002-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "DSC00003.JPG",
+			"thumb" : "DSC00003-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "DSC00004.JPG",
+			"thumb" : "DSC00004-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "DSC00005.JPG",
+			"thumb" : "DSC00005-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "DSC00006.JPG",
+			"thumb" : "DSC00006-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "DSC00007.JPG",
+			"thumb" : "DSC00007-t.jpg",
+			"caption" : ""
+		},
+		{
+			"url" : "DSC00008.JPG",
+			"thumb" : "DSC00008-t.jpg",
+			"caption" : ""
+		}
+	]
+}
