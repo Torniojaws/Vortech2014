@@ -7,7 +7,8 @@
 
 	// Settings
 	$title = getSafeTitle();
-	$template = 'templates/vortech/';
+	$template = 'templates/2014/';
+	$_SESSION['template'] = $template;
 	$css = $template . 'vortech.css';
 
 	// Generate the page

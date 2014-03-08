@@ -1,45 +1,105 @@
 {
 	"artist" : "Vortech",
-	"album" : "Impenitence (EP)",
-	"releaseDate" : "2013-09-21",
+	"album" : "The Occlusion",
+	"releaseDate" : "2014-02-06",
 	"releaseCode" : "VOR007",
-	"duration" : "14:11",
-	"downloadLink" : "http://www.vortechmusic.com/impenitence",
-	"studioReportId" : "11",
+	"duration" : "57:38",
+	"downloadLink" : "http://www.vortechmusic.com/theocclusion",
+	"studioReportId" : "10",
 	"recordingStartDate" : "2013-06-08",
 	"recordingEndDate" : "2013-07-22",
 	"isOnCD" : false,
 	"tracklist" : [
 		{ 
-			"trackTitle" : "Corroded",
-			"trackDuration" : "03:14",
-			"trackLyricsFile" : "impenitence.php#1",
-			"trackTabFile" : "Vortech - Corroded.gp5"
+			"trackTitle" : "Forgotten World",
+			"trackDuration" : "04:51",
+			"trackLyricsFile" : "occlusion.php#1",
+			"trackTabFile" : "Vortech - Forgotten World.gp5"
 		},
 		{ 
-			"trackTitle" : "The Observers",
-			"trackDuration" : "04:15",
-			"trackLyricsFile" : "impenitence.php#2",
-			"trackTabFile" : "Vortech - The Observers.gp5"
-		},
-		{ 
-			"trackTitle" : "Devour the Being",
-			"trackDuration" : "03:12",
-			"trackLyricsFile" : "impenitence.php#3",
-			"trackTabFile" : "Vortech - Devour the Being.gp5"
-		},
-		{ 
-			"trackTitle" : "Uncreation",
+			"trackTitle" : "Mechanicide",
 			"trackDuration" : "03:26",
-			"trackLyricsFile" : "impenitence.php#4",
-			"trackTabFile" : "Vortech - Uncreation.gp5"
+			"trackLyricsFile" : "occlusion.php#2",
+			"trackTabFile" : "Vortech - Mechanicide.gp5"
+		},
+		{ 
+			"trackTitle" : "The Origin",
+			"trackDuration" : "04:45",
+			"trackLyricsFile" : "occlusion.php#3",
+			"trackTabFile" : "Vortech - The Origin.gp5"
+		},
+		{ 
+			"trackTitle" : "Controlled",
+			"trackDuration" : "03:23",
+			"trackLyricsFile" : "occlusion.php#4",
+			"trackTabFile" : "Vortech - Controlled.gp5"
+		},
+		{ 
+			"trackTitle" : "MTTF",
+			"trackDuration" : "04:25",
+			"trackLyricsFile" : "occlusion.php#5",
+			"trackTabFile" : "Vortech - MTTF.gp5"
+		},
+		{ 
+			"trackTitle" : "Sparks of Ignition",
+			"trackDuration" : "04:36",
+			"trackLyricsFile" : "occlusion.php#6",
+			"trackTabFile" : "Vortech - Sparks of Ignition.gp5"
+		},
+		{ 
+			"trackTitle" : "Flatlined",
+			"trackDuration" : "04:08",
+			"trackLyricsFile" : "occlusion.php#7",
+			"trackTabFile" : "Vortech - Flatlined.gp5"
+		},
+		{ 
+			"trackTitle" : "Confined",
+			"trackDuration" : "03:58",
+			"trackLyricsFile" : "occlusion.php#8",
+			"trackTabFile" : "Vortech - Confined.gp5"
+		},
+		{ 
+			"trackTitle" : "Beyond Tolerance",
+			"trackDuration" : "03:43",
+			"trackLyricsFile" : "occlusion.php#9",
+			"trackTabFile" : "Vortech - Beyond Tolerance.gp5"
+		},
+		{ 
+			"trackTitle" : "Glitch of Creation",
+			"trackDuration" : "03:44",
+			"trackLyricsFile" : "occlusion.php#10",
+			"trackTabFile" : "Vortech - Glitch of Creation.gp5"
+		},
+		{ 
+			"trackTitle" : "Below Radar",
+			"trackDuration" : "03:38",
+			"trackLyricsFile" : "occlusion.php#11",
+			"trackTabFile" : "Vortech - Below Radar.gp5"
+		},
+		{ 
+			"trackTitle" : "Genetic Design",
+			"trackDuration" : "04:20",
+			"trackLyricsFile" : "occlusion.php#12",
+			"trackTabFile" : "Vortech - Genetic Design.gp5"
+		},
+		{ 
+			"trackTitle" : "Legacy System",
+			"trackDuration" : "04:31",
+			"trackLyricsFile" : "occlusion.php#13",
+			"trackTabFile" : "Vortech - Legacy System.gp5"
+		},
+		{ 
+			"trackTitle" : "Evolutionary Project (Debased World Order Remix)",
+			"trackDuration" : "04:09",
+			"trackLyricsFile" : "occlusion.php#14",
+			"trackTabFile" : "Vortech - Evolutionary Project (Remix).gp5"
 		}
 	],
 	"artwork" : [
-		{ "front" : "artwork/impenitence-front" },
-		{ "back" : "artwork/impenitence-back" },
-		{ "inlay" : "artwork/impenitence-inlay" },
+		{ "front" : "artwork/occlusion-front" },
+		{ "back" : "artwork/occlusion-back" },
+		{ "inlay" : "artwork/occlusion-inlay" },
 		{ "thumb" : "-t" }
 	],
-	"creditsFile" : "credits/impenitence.php"
+	"creditsFile" : "credits/occlusion.php"
 }

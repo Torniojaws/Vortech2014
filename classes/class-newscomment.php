@@ -19,7 +19,7 @@
 		}
 		
 		public function display() {
-			include('templates/vortech/newscomment.php');
+			include($_SESSION['template'] . 'newscomment.php');
 		}
 	}
 	

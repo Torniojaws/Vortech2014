@@ -19,7 +19,7 @@
 		}
 		
 		public function display() {
-			include('templates/vortech/guestbookpost.php');
+			include($_SESSION['template'] . 'guestbookpost.php');
 		}
 	}
 	

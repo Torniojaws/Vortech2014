@@ -1,4 +1,5 @@
 <h2>Releases</h2>
+<br />
 <?php
 	include('classes/class-release.php');
 	include('classes/class-rating.php');

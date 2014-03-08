@@ -14,7 +14,7 @@
 		}
 		
 		public function display() {
-			include('templates/vortech/photoOne.php');
+			include($_SESSION['template'] . 'photoOne.php');
 		}
 	}
 	

@@ -17,12 +17,12 @@
 		}
 		
 		public function display() {
-			include('templates/vortech/photoalbum.php');
+			include($_SESSION['template'] . 'photoalbum.php');
 			foreach($this->pictures as $photo) {
 				$picture = new Photo($photo, $this->path);
 				$picture->display();
 			}
-			include('templates/vortech/photoalbumEnd.php');
+			include($_SESSION['template'] . 'photoalbumEnd.php');
 		}
 	}
 	

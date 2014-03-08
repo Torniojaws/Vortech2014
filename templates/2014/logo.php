@@ -1,0 +1,1 @@
+<a href="?page=index"><img src="templates/2014/logo.png" alt="Return to homepage" /></a>

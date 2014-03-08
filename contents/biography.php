@@ -16,6 +16,7 @@
 	</div>
 <div class="titlebox"><p class="titleboxText">Guest Artists</p></div>
 	<div class="postText">
+		<p>Mary Rose Viray (2014) &ndash; Vocals on The Occlusion track 7</p>
 		<p><a href="#" id="showDetails07">Mikko Nurmos</a> (2008) &ndash; Spoken Vocals on Deep Beneath track 8</p>
 		<p><a href="#" id="showDetails05">Lukas Pearsall</a> (2007) &ndash; Vocals on Wasteland track 1</p>
 		<p><a href="#" id="showDetails04">Rami Moilanen</a> (2001) &ndash; Rehearsal Drums</p>

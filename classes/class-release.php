@@ -38,7 +38,7 @@
 		}
 		
 		public function display() {
-			include('templates/vortech/release.php');
+			include($_SESSION['template'] . 'release.php');
 		}
 		
 		private function getDownloadCount() {

@@ -35,7 +35,7 @@
 <div id="liveShowDetails08">
 	<img src="contents/biography/ville.jpg" alt="Ville Miinala" />
 	<h3>Ville Miinala</h3>
-	<p>Other bands: Darker Grounds, Pigmill, Coldway</p>
+	<p>Other bands: Mors Subita, Darker Grounds, Pigmill, Coldway</p>
 	<p>Endorsed by:</p>
 	<ul class="nobullets">
 		<li><a href="http://www.remo.com/">Remo Drums</a></li>

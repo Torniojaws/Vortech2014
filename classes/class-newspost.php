@@ -21,7 +21,7 @@
 		}
 		
 		public function display() {
-			include('templates/vortech/newspost.php');
+			include($_SESSION['template'] . 'newspost.php');
 		}
 	}
 	

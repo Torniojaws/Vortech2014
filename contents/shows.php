@@ -21,7 +21,7 @@
 		echo '<hr />';
 	}
 ?>
-<div class="titlebox"><p class="titleboxText">Upcoming Shows</p></div>
+<h3 class="liveshowTitleText">Upcoming Shows</h3>
 <?php
 	include('classes/class-show.php');
 
@@ -37,7 +37,7 @@
 		// Display "Past Shows" title once
 		if(strtotime($show->showDate) < time()) {
 			if($flag == 0) {
-				echo '<div class="titlebox"><p class="titleboxText">Past Shows</p></div>';
+				echo '<h3 class="liveshowTitleText">Past Shows</h3>';
 				$flag = 1;
 			}			
 		}

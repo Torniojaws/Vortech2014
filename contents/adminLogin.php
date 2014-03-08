@@ -9,8 +9,8 @@
 	
 	// Try to login with the given data
 	list($name, $pass) = array_values($safeData);
-	$hashedName = crypt('***'); // Censored for Git
-	$hashedPass = crypt('***'); // Censored for Git
+	$hashedName = crypt('torniojaws'); // Censored for Git
+	$hashedPass = crypt('zahram666'); // Censored for Git
 	if(crypt($name, $hashedName) == $hashedName && crypt($pass, $hashedPass) == $hashedPass) {
 		$_SESSION['adminLoginStatus'] = 'loginOK';
 		$_SESSION['adminName'] = 'Torniojaws';

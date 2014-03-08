@@ -33,7 +33,7 @@
 		}
 		
 		public function display() {
-			include('templates/vortech/liveshow.php');
+			include($_SESSION['template'] . 'liveshow.php');
 		}
 		
 		private function generateListOfOtherBands() {
