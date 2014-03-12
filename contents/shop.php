@@ -28,14 +28,11 @@
 	<div class="shopDivCenter">
 		<h4>The Occlusion</h4>
 		<p>Our latest release from 2014 with a heavy emphasis on our Industrial side! Currently available as digital download, with a CD coming later in 2014.</p>
-		<!-- Todo
-		<h4>Quick listen!</h4>
 		<audio controls>
-			<source src="contents/audio/devoidoflife.ogg" type="audio/ogg">
-			<source src="contents/audio/devoidoflife.mp3" type="audio/mpeg">
-			Your browser does not support the audio element. Download here: <a href="contents/audio/devoidoflife.mp3">mp3</a>
+			<source src="contents/audio/occlusion.ogg" type="audio/ogg">
+			<source src="contents/audio/occlusion.mp3" type="audio/mpeg">
+			Your browser does not support the audio element. Download here: <a href="contents/audio/occlusion.mp3">mp3</a>
 		</audio>
-		--> 
 	</div>
 	<div class="shopDivRight">
 		<a href="http://vortech.bandcamp.com/album/the-occlusion"><img src="contents/merch/bandcamp.png" class="shopLink" alt="BandCamp" /></a>
