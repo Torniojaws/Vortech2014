@@ -160,31 +160,40 @@ textarea[name="message"] {
 }
 
 .newsTitleText {
-	color: #9aacba;
+	color: white;
+	font-size: 120%;
 	font-weight: bold;
-	text-transform: uppercase;
 }
 
 .newsDateText {
-	color: #4c5f6f;
-	font-size: 85%;
-	margin-top: 5px;
+	color: #425e6b;
+	font-size: 70%;
+	padding-top: 13px;
 }
 
 .newsPost {
 	width: auto;
-	height: auto;
+	min-height: 200px;
+	height: auto !important; /* For IE support */
+	height: 200px;
+	background-image: url('newspost.png');
+	background-repeat: no-repeat;
 }
 
 .newsPostText {
-	padding-left: 32px;
-	font-size: 90%;
+	padding-top: 45px;
+	padding-left: 68px;
+	font-size: 80%;
+	color: #d5cbc3;
 	line-height: 120%;
 }
 
 .newsTitleBox {
 	width: 650px;
 	height: auto;
+	position: relative;
+	top: 34px;
+	left: 20px;
 }
 
 .releaseTitleBox {

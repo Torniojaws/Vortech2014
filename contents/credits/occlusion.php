@@ -3,4 +3,5 @@
 	<li>Juha Untinen - guitars, programming</li>
 	<li>Mikko Nikula - vocals</li>
 	<li>Ville Miinala - co-production</li>
+	<li>Mary Rose Viray - guest vocals on track 7</li>
 </ul>
