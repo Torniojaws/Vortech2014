@@ -173,10 +173,10 @@ textarea[name="message"] {
 
 .newsPost {
 	width: auto;
-	min-height: 200px;
+	min-height: 142px;
 	height: auto !important; /* For IE support */
-	height: 200px;
-	background-image: url('newspost.png');
+	height: 142px;
+	background-image: url('newspost-v2.png');
 	background-repeat: no-repeat;
 }
 
@@ -192,7 +192,7 @@ textarea[name="message"] {
 	width: 650px;
 	height: auto;
 	position: relative;
-	top: 34px;
+	top: 8px;
 	left: 20px;
 }
 
